@@ -13,11 +13,8 @@
 
 
 ## 📸 Screenshot
-![Screenshot of Simon Says Game]
-(Screenshots/Screenshot (157).png)
 
 ![Screenshot of Simon Says Game](Screenshots/demo1.png)
 
 
-![Screenshot of Simon Says Game]
-(Screenshots/Screenshot (158).png)
+(Screenshots/demo2.png)
