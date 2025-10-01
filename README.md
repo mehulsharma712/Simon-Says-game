@@ -16,7 +16,7 @@
 ![Screenshot of Simon Says Game]
 (Screenshots/Screenshot (157).png)
 
-![Screenshot of Simon Says Game](Screenshots/Screenshot (157).png)
+![Screenshot of Simon Says Game](Screenshots/demo1.png)
 
 
 ![Screenshot of Simon Says Game]
