@@ -17,4 +17,4 @@
 ![Screenshot of Simon Says Game](Screenshots/demo1.png)
 
 
-(Screenshots/demo2.png)
+![Screenshot of Simon Says Game](Screenshots/demo2.png)
